@@ -24,10 +24,12 @@ Alternatively, you can view the deployed application at [deploy format](https://
 
 ## Screenshots
 ## Desktop Application
-* ![img.png](img.png)
+* ![Снимок экрана 2024-03-14 151422](https://github.com/Muslim0915/todolist-vue3/assets/95496283/26970256-7db3-4edd-bc8d-a429ec2b07c3)
+
 
 ## Mobile Application
-![img_1.png](img_1.png)
+* ![Снимок экрана 2024-03-14 151511](https://github.com/Muslim0915/todolist-vue3/assets/95496283/c8b56d2c-f6d3-4976-b986-68082103d260)
+
 
 ## Contribution
 
