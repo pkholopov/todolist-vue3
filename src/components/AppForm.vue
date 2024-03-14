@@ -39,6 +39,7 @@ const handleSave = () => {
     <label class="flex flex-col gap-2">
       {{ t('Todo title') }}
       <AppInput
+          v-model="store.inputValue"
           :placeholder="t('Enter todo name')"
           :autofocus="!!store.isModalShown"
           class="rounded"

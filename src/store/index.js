@@ -31,11 +31,7 @@ export const useTodolistData = defineStore('todos', {
             this.isModalShown = true;
             this.isCreatingModalActive = false
             this.editingElement = id
-            this.todos.map((item) => {
-                if (item.id === id) {
-                    this.inputValue = item.title;
-                }
-            })
+            this.inputValue = this.todos.find((item) => item.id === id)['title'];
         },
         closeModal() {
             this.isModalShown = false;

@@ -7,9 +7,14 @@ const props = defineProps({
   autofocus: {
     type: Boolean,
     default: false
+  },
+
+  modelValue: {
+    type: String
   }
 })
 
+const emits = defineEmits(['update:modelValue'])
 
 </script>
 
@@ -19,5 +24,7 @@ const props = defineProps({
       :placeholder=props.placeholder
       class="border border-black text-base outline-0 px-4 py-3"
       type="text"
+      :value="props.modelValue"
+      @input="emits('update:modelValue', $event.target.value)"
   />
 </template>
