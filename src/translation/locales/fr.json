@@ -1,0 +1,20 @@
+{
+  "create": "creer",
+  "List of todos": "Liste des taches",
+  "The list of todos is empty": "La liste des taches est vide",
+  "Delete All": "Supprimer tout",
+  "Editing": "Edition",
+  "Creating": "Creation",
+  "Todo title": "Titre de la tache",
+  "Enter todo name": "Entrez le nom de la tache",
+  "delete": "supprimer",
+  "save": "sauvegarder",
+  "This field should not be empty": "Ce champ ne doit pas être vide",
+  "Todo added": "Tache ajoutee",
+  "Todo deleted": "Tache supprimée",
+  "Todo edited": "Tache modifiée",
+  "All todos deleted": "Toutes les taches supprimées",
+  "Todo for today": "Taches pour aujourd'hui",
+  "Todo completed": "Tache terminée",
+  "Todo uncompleted": "Tache non terminée"
+}

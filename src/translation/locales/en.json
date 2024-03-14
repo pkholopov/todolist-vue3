@@ -1,0 +1,21 @@
+{
+  "create": "create",
+  "List of todos": "List of todos",
+  "The list of todos is empty": "The list of todos is empty",
+  "Delete All": "Delete All",
+  "Editing": "Editing",
+  "Creating": "Creating",
+  "Todo title": "Todo title",
+  "Enter todo name": "Enter todo name",
+  "delete": "delete",
+  "save": "save",
+  "This field should not be empty": "This field should not be empty",
+  "Todo added": "Todo added",
+  "Todo deleted": "Todo deleted",
+  "Todo edited": "Todo edited",
+  "All todos deleted": "All todos deleted",
+  "Todo for today": "Todo for today",
+  "Todo completed": "Todo completed",
+  "Todo uncompleted": "Todo uncompleted"
+}
+

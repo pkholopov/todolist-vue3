@@ -1,0 +1,21 @@
+{
+
+  "create": "انشاء",
+  "List of todos": "قائمة المهام",
+  "The list of todos is empty": "قائمة المهام فارغة",
+  "Delete All": "حذف الكل",
+  "Editing": "تعديل",
+  "Creating": "انشاء",
+  "Todo title": "عنوان المهمة",
+  "Enter todo name": "ادخل اسم المهمة",
+  "delete": "حذف",
+  "save": "حفظ",
+  "This field should not be empty": "هذا الحقل لا يجب ان يكون فارغا",
+  "Todo added": "تمت اضافة المهمة",
+  "Todo deleted": "تم حذف المهمة",
+  "Todo edited": "تم تعديل المهمة",
+  "All todos deleted": "تم حذف جميع المهام",
+  "Todo for today": "المهام لليوم",
+  "Todo completed": "مهمة مكتملة",
+  "Todo uncompleted": "مهمة غير مكتملة"
+}
