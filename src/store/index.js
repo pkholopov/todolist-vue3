@@ -31,7 +31,6 @@ export const useTodolistData = defineStore('todos', {
             this.isModalShown = true;
             this.isCreatingModalActive = false
             this.editingElement = id
-            console.log(this.editingElement);
             this.todos.map((item) => {
                 if (item.id === id) {
                     this.inputValue = item.title;
