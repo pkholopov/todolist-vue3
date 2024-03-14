@@ -22,6 +22,15 @@ Alternatively, you can view the deployed application at [deploy format](https://
 * Language support for English, Russian, French, and Arabic.
 * Useful for learning Vue 3.
 
+## Technologies Used
+* Vue.js 3 (Composition API components)
+* Pinia
+* Vue Router
+* Tailwind CSS
+* localStorage
+* JavaScript
+* vue-i18n
+
 ## Screenshots
 ## Desktop Application
 * ![Снимок экрана 2024-03-14 151422](https://github.com/Muslim0915/todolist-vue3/assets/95496283/26970256-7db3-4edd-bc8d-a429ec2b07c3)
